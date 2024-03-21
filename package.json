@@ -1,0 +1,21 @@
+{
+  "name": "lazy-yellow-lemon",
+  "displayName": "Lazy Yellow Lemon",
+  "description": "description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lazy Yellow Lemon",
+        "uiTheme": "vs",
+        "path": "./themes/lazy-yellow-lemon-color-theme.json"
+      }
+    ]
+  }
+}
