@@ -1,7 +1,9 @@
 {
   "name": "lazy-yellow-lemon",
+  "repository": "https://github.com/arnorhs/lazy-yellow-lemon",
   "displayName": "Lazy Yellow Lemon",
   "description": "A nice mellow yellow theme",
+  "publisher": "arnorhs",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
