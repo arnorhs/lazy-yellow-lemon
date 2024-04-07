@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#000000cc"
+      "foreground": "#cc9900"
     },
     "variable.constant": {
       "foreground": "#cf6500"
